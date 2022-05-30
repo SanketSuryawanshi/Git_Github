@@ -91,4 +91,20 @@
 [$] git checkout token 
 [$] git checkout master  >>> To get back to Master >> 
 
+<<<<<<< HEAD
 =====================================================================================================================================
+
+[$] Master Branch >>> Main Work root direcotory
+
+[$] Friend >> Collaboration Work On Another Branch >>> After Done All >> Merge these Works to Master Branch >>
+
+[$] git branch >> to list out branches >>
+
+[$] git branch branch_name  >>> to create branch
+
+[$] git checkout branch_name >> Swithing branch
+
+[$] git merge branch_name >> merge changes >> 
+
+>>>>>>> report
+
